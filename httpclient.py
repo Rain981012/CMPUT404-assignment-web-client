@@ -23,7 +23,7 @@ import sys
 import socket
 import re
 # you may use urllib to encode data appropriately
-# 
+# https://docs.python.org/3/library/urllib.parse.html introduction of urlparse and urlencode
 from urllib.parse import urlparse,urlencode
 
 
